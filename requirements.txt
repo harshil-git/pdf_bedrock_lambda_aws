@@ -1,0 +1,12 @@
+boto3
+langchain
+langchain_community
+chromadb
+sentence-transformers
+requests
+streamlit
+transformers
+torch
+langchain-huggingface
+langchain-chroma
+langchain-aws
